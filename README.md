@@ -56,6 +56,15 @@
 * **Designing** 🎨
 * and **anything tech-related**... ❓
 
+### 🏢 Work GitHub
+<a href="https://github.com/ChristoverMoa">
+
+[![GitHub](https://img.shields.io/badge/ChristoverMoa-Company%20Account-black?logo=github)](https://github.com/ChristoverMoa)
+</a>
+⚠️ Most of my daily commits are made on my work account,
+therefore contribution graph here may not fully reflect my activity.
+
+
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -67,19 +76,19 @@
   <h2><b>🤹‍♀️ Skills</b></h2>
 </div>
 
-**Programming & Scripting Languages:** <br>
+**Programming & Scripting Languages:** <br><br>
 ![My Skills](https://skillicons.dev/icons?i=js,py,html,css,scss,regex)
 
-**Front-End Frameworks & Development:**<br>
+**Front-End Frameworks & Development:**<br><br>
 ![My Skills](https://skillicons.dev/icons?i=react,jquery,tailwind,bootstrap,nodejs,npm,bun,vite,webpack,redux)
 
-**Deployment & Testing tools:**<br>
+**Deployment & Testing tools:**<br><br>
 ![My Skills](https://skillicons.dev/icons?i=git,postman,netlify,jest)
 
-**Code Editors:**<br>
+**Code Editors:**<br><br>
 ![My Skills](https://skillicons.dev/icons?i=sublime,vscode)
 
-**Design & Prototyping Tools:**<br>
+**Design & Prototyping Tools:**<br><br>
 ![My Skills](https://skillicons.dev/icons?i=figma,xd)
 <br>
 
@@ -126,7 +135,7 @@
 </div>
 <div align="center">
   
-![3D-Graph-Contribution](https://raw.githubusercontent.com/tophermoa/tophermoa/main/profile-3d-contrib/profile-night-green.svg)
+![3D-Graph-Contribution](https://raw.githubusercontent.com/tophermoa/tophermoa/main/profile-3d-contrib/profile-night-view.svg)
 </div>
 <br>
 
@@ -140,3 +149,9 @@
 <a href="https://github.com/aryankashyap7/CheatSheets-for-Developers">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aryankashyap7&repo=CheatSheets-for-Developers&theme=dark&hide_border=true&icon_color=F8D866" alt="CheatSheets-for-Developers">
 </a>
+
+<div align="left">
+  <h2><b>👀 Visitor</b></h2>
+</div>
+<a href="https://github.com/sponsors/Hunterdii/">
+<img src="https://count.getloli.com/@tophermoa?name=tophermoa+counter&theme=minecraft&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
