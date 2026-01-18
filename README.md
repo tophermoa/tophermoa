@@ -66,6 +66,7 @@
 <div align="left">
   <h2><b>🤹‍♀️ Skills</b></h2>
 </div>
+
 **Programming & Scripting Languages:** <br>
 ![My Skills](https://skillicons.dev/icons?i=js,py,html,css,scss,regex)
 
@@ -99,13 +100,13 @@
 
   </br>
   <!--🏆 GitHub Streak-->
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=tophermoa&theme=github_dark&hide_border=true&no-bg=true&no-frame=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=tophermoa&theme=github_dark&hide_border=true&no-frame=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a">
   
 </td>
 
 <td align='center' width="510">
 <!--📙 Languages-->
-  <img  align="center"  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tophermoa&theme=github_dark&hide_border=true&no-bg=true&no-frame=true&langs_count=8"/>
+  <img  align="center"  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tophermoa&theme=github_dark&hide_border=true&no-frame=true&langs_count=8"/>
 
   </td>
 </tr>
