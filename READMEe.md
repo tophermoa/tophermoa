@@ -64,17 +64,43 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZwNnFnNXIzcjJvazJ2Z21ocGNqZGxqcWxqa2VrYXJwMmE3Yzd0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif" width="20%"></p>
 
 ### 🤹‍♀️ Skills
-**Programming & Scripting Languages:** 
+**Programming & Scripting Languages:** <br>
 ![My Skills](https://skillicons.dev/icons?i=js,py,html,css,scss,regex)
 
-**Front-End Frameworks & Development:**
+**Front-End Frameworks & Development:**<br>
 ![My Skills](https://skillicons.dev/icons?i=react,jquery,tailwind,bootstrap,nodejs,npm,bun,vite,webpack,redux)
 
-**Deployment & Testing tools:**
+**Deployment & Testing tools:**<br>
 ![My Skills](https://skillicons.dev/icons?i=git,postman,netlify,jest)
 
-**Code Editors:**
+**Code Editors:**<br>
 ![My Skills](https://skillicons.dev/icons?i=sublime,vscode)
 
-**Design & Prototyping Tools:**
+**Design & Prototyping Tools:**<br>
 ![My Skills](https://skillicons.dev/icons?i=figma,xd)
+
+<table width="100" border="0">
+<tr border="0">
+      <td align='center' width="510">
+  
+<!--🔝 Rank Gitthub Appearance-->
+  <img src="https://gh-readme-profile.vercel.app/api?username=tophermoa&theme=github_dark_tritanopia&border_width=0.1&photo_quality=100&format=svg&hide=issues&border_radius=17.5&hide_border=true&stroke_color=1F6FEB&bg_color=0D1117" />
+  <br>
+
+<!--📏LINE-->
+<!--<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0447.gif" height="1" width="100%">-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+  </br>
+  <!--🏆 GitHub Streak-->
+  <img  alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tophermoa&theme=github-dark-blue&hide_border=true" />
+  
+</td>
+
+<td align='center' width="510">
+<!--📙 Languages-->
+  <img  align="center"  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tophermoa&theme=github_dark&hide_border=true&no-bg=true&no-frame=true&langs_count=8"/>
+
+  </td>
+</tr>
+</table>
