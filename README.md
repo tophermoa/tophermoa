@@ -134,9 +134,9 @@
   <h2><b>⚒ Project I've Contributed To</b></h2>
 </div>
 <a href="https://github.com/Jitensid/TabPort">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jitensid&repo=TabPort&theme=github_dark&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="TabPort">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jitensid&repo=TabPort&theme=github_dark&hide_border=true&icon_color=F8D866&no-bg=false" alt="TabPort">
 </a>
 
 <a href="https://github.com/aryankashyap7/CheatSheets-for-Developers">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aryankashyap7&repo=CheatSheets-for-Developers&theme=github_dark&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="CheatSheets-for-Developers">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aryankashyap7&repo=CheatSheets-for-Developers&theme=github_dark&hide_border=true&icon_color=F8D866&no-bg=false" alt="CheatSheets-for-Developers">
 </a>
