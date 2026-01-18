@@ -154,5 +154,4 @@ therefore contribution graph here may not fully reflect my activity.
 <div align="left">
   <h2><b>👀 Visitor</b></h2>
 </div>
-<a href="https://github.com/sponsors/Hunterdii/">
-<img src="https://count.getloli.com/@tophermoa?name=tophermoa+counter&theme=minecraft&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+<img src="https://count.getloli.com/@tophermoa?name=tophermoa+counter&theme=minecraft&padding=7&offset=0&align=top&scale=0.5&pixelated=1&darkmode=auto">
