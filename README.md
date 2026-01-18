@@ -61,6 +61,7 @@
 
 [![GitHub](https://img.shields.io/badge/ChristoverMoa-Company%20Account-black?logo=github)](https://github.com/ChristoverMoa)
 </a>
+<br>
 ⚠️ Most of my daily commits are made on my work account,
 therefore contribution graph here may not fully reflect my activity.
 
