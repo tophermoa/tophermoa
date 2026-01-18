@@ -14,8 +14,12 @@
     <a href="https://www.facebook.com/christover.moa">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
     </a>
+    <br>
     <a href="https://www.instagram.com/topertepar">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    <a href="https://www.hackerrank.com/profile/moachristover">
+        <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
     </a>
 </p>
 
@@ -24,7 +28,7 @@
 
 <!--💫 About Me-->
 
-<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTd4czd5YjUxNDFvMWR0MmZ6YWM2NjluN3UwbmpsNjVhejEyOW80YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rS6hNEBJYqy3Tfo9yS/giphy.gif" width="300">
+<img align='right' src="assets/gitcat.gif" width="300">
 
 ### ✔️ I'm currently learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
@@ -67,7 +71,7 @@
 ![My Skills](https://skillicons.dev/icons?i=react,jquery,tailwind,bootstrap,nodejs,npm,bun,vite,webpack,redux)
 
 **Deployment & Testing tools:**
-![My Skills](https://skillicons.dev/icons?i=git,postman,netlify)
+![My Skills](https://skillicons.dev/icons?i=git,postman,netlify,jest)
 
 **Code Editors:**
 ![My Skills](https://skillicons.dev/icons?i=sublime,vscode)
