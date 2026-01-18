@@ -56,10 +56,10 @@
 * **Designing** 🎨
 * and **anything tech-related**... ❓
 
-### 🏢 Work GitHub
+### 🏢 Work Account
 <a href="https://github.com/ChristoverMoa">
 
-[![GitHub](https://img.shields.io/badge/ChristoverMoa-Company%20Account-black?logo=github)](https://github.com/ChristoverMoa)
+[![GitHub](https://img.shields.io/badge/ChristoverMoa-Digital%20Animasi%20Asia-black?logo=github)](https://github.com/ChristoverMoa)
 </a>
 <br>
 ⚠️ Most of my daily commits are made on my work account,
