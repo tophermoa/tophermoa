@@ -14,10 +14,10 @@
     <a href="https://www.facebook.com/christover.moa">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
     </a>
-    <br>
     <a href="https://www.instagram.com/topertepar">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
+    <br>
     <a href="https://www.hackerrank.com/profile/moachristover">
         <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
     </a>
